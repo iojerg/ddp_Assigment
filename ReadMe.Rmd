@@ -6,9 +6,9 @@ Once you are in the app, plase do the following:
 2. Select variable 2. For example hp (horse power)  
 3. Select the numbers of clusters you would like to create (from 1 to 5)  
 4. You will see displayed 3 different outputs:  
-  a. Plot mpg vs. hp coloured by clusters they belong to. You will be see as well cross for the centers of the clusters
-  b. A top table containing the average values for the two selected measuresby group
-  c. A list containing the names of the cars, two variables selected and the group they belong to  
+  a. Plot mpg vs. hp coloured by clusters they belong to. You will be see as well cross for the centers of the clusters.  
+  b. A top table containing the average values for the two selected measuresby group.  
+  c. A list containing the names of the cars, two variables selected and the group they belong to.    
   
 For further instruction see the RStudio presentation:  
 
